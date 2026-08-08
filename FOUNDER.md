@@ -53,7 +53,9 @@ My studies included:
 - Cultural Heritage
 - Geography
 
-Enterprise became my highest-marked high school course, with a final grade of **98**. My stronger subjects were generally those involving business, communication, technology, writing, information, or the interpretation of people and systems. :contentReference[oaicite:0]{index=0}
+Enterprise became my highest-marked high school course, with a final grade of 98.
+
+My stronger subjects were generally those involving business, communication, technology, writing, information, or the interpretation of people and systems.
 
 Looking back, those subjects appear far less disconnected than they did at the time.
 
@@ -100,7 +102,9 @@ My coursework included:
 - Transcription
 - Work Exposure
 
-My college record shows particularly strong results in several technology and systems-oriented subjects, including Operating Systems, Electronic Spreadsheet Applications, Computerized Accounting, Desktop Publishing, Office Management, and Micro-Database Applications. I completed the college record shown with a cumulative GPA of **3.512**. :contentReference[oaicite:1]{index=1}
+I had particularly strong results in several technology and systems-oriented subjects, including Operating Systems, Electronic Spreadsheet Applications, Computerized Accounting, Desktop Publishing, Office Management, and Micro-Database Applications.
+
+I completed my college studies with a cumulative GPA of 3.512.
 
 What interested me most was rarely one individual subject.
 
@@ -293,7 +297,7 @@ Crypto marketing has developed its own highly specialized culture.
 
 Certain formulas are repeated because they work.
 
-Projects use:
+Projects commonly rely on:
 
 - community-building
 - influencers
@@ -625,7 +629,7 @@ In Fall 2026, I am beginning studies in **Enterprise Web Development**.
 
 That decision continues the same intersection that has existed throughout my education and working life:
 
-**business + technology + people + systems.**
+**business + technology + people + systems**
 
 Web development gives me another way to understand how business concepts are translated into actual products and user experiences.
 
