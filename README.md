@@ -209,6 +209,15 @@ This repository will be used to explore and document:
 
 The scope will continue to evolve as Northframe’s methods, experience, and areas of focus develop.
 
+## Founder
+
+Northframe was developed by Brenda Penton from a long-standing interest in business structure, marketing psychology, technology, pattern mapping, and how systems evolve.
+
+Her background includes business and office administration, organizational operations, IT-related consulting, cryptocurrency projects, marketing, research, and practical systems analysis.
+
+Northframe formalizes an approach she has used informally for years: looking beyond the visible problem, mapping the relationships around it, and tracing downstream issues back to the upstream decisions that created them.
+
+[Read the full founder background](FOUNDER.md)
 ---
 
 <div align="center">
