@@ -698,3 +698,9 @@ Northframe is the point where I began treating them as parts of the same process
 It is also the point where I finally started documenting that process.
 
 That is the journey this repository records.
+
+---
+
+<p align="center">
+  <sub>© 2026 Brenda Penton · Northframe. All rights reserved.</sub>
+</p>

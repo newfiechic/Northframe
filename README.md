@@ -192,6 +192,7 @@ Northframe provides research, systems review, structured analysis, human-centred
 
 ## Current Status
 
+The corporate name **Northframe Systems Inc.** has been submitted for reservation with the Newfoundland and Labrador Registry of Companies, pending approval and incorporation.
 Northframe is currently in development.
 
 This repository will be used to explore and document:
@@ -225,3 +226,10 @@ Northframe formalizes an approach she has used informally for years: looking bey
 **See the whole system. Find what is missing. Build what works.**
 
 </div>
+
+
+---
+
+<p align="center">
+  <sub>© 2026 Brenda Penton · Northframe. All rights reserved.</sub>
+</p>

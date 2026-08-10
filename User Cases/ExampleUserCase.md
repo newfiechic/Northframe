@@ -163,3 +163,9 @@ The strongest business model does not begin with:
 It begins with:
 
 **“What are we building that can actually be marketed, and how does that marketability exist inside the system from the beginning?”**
+
+---
+
+<p align="center">
+  <sub>© 2026 Brenda Penton · Northframe. All rights reserved.</sub>
+</p>
