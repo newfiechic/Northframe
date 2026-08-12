@@ -75,7 +75,7 @@ Those interests would continue into college.
 
 ## College of the North Atlantic
 
-I attended College of the North Atlantic and completed the Office Administration program in 2000.
+I attended College of the North Atlantic and completed the Office Administration - Executive program in 2000.
 
 The program gave me practical exposure to many different parts of organizational operations rather than training me in only one narrow function.
 
