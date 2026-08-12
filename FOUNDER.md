@@ -126,11 +126,11 @@ The more areas I encountered, the more interested I became in the relationships 
 
 ## Helping Others Use Technology
 
-During college, I also became known for helping other students understand and use technology within the office environment.
+During college, I also became known for helping other students (and my instructors!) understand and use technology within the office environment. This was also part my job description as a Library Aide discussed next. 
 
 Technology came naturally to me, but I was equally interested in making it understandable and useful to someone else.
 
-I would help classmates work through software, computer applications, and the changing technology being introduced into administrative work.
+I would help classmates and instructors work through software, computer applications, and the changing technology being introduced into administrative work. Some of this was hardware related. 
 
 That became another recurring part of how I worked later.
 
