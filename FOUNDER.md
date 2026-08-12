@@ -154,7 +154,7 @@ That combination of technology, structure, and usability would continue througho
 
 ## Early Work Experience
 
-From approximately 1998 through 2000, I also worked as a library aide.
+From approximately 1998 through 2000, I also worked as a Library Aide at the College of the North Atlantic Headquarters in Stephenville, NL.
 
 At the time, I worked independently as the sole employee in that particular position.
 
@@ -197,7 +197,7 @@ My college work experience added another layer to that exposure.
 
 ### College of the North Atlantic, Accounts Payable
 
-In 1999, I completed on-the-job training with College of the North Atlantic in Accounts Payable.
+In 1999, I completed on-the-job training with College of the North Atlantic Headquarters in Stephenville, NL in Accounts Payable.
 
 This gave me direct experience working inside a larger institutional financial and administrative environment.
 
@@ -205,7 +205,7 @@ It also allowed me to see the difference between learning a process academically
 
 ### Pathfinders School
 
-In 2000, I completed further work experience with Pathfinders School.
+In 2000, I completed further work experience with The Pathfinders School in Stephneville, NL.
 
 Part of that work involved helping begin the process of moving course material from a paper-based format toward an online structure.
 
@@ -231,7 +231,7 @@ That type of problem suited the way I naturally approached things.
 
 ## Business, IT, and Consulting
 
-Later, I became involved in consulting and IT-related business alongside a former spouse.
+Later, I became involved in consulting and IT-related business alongside a former spouse in Kippens, NL.
 
 Technology remained an important part of my work, but my interests continued expanding beyond technology itself.
 
@@ -625,7 +625,7 @@ It documents not simply a finished answer, but the evolution of the framework.
 
 ## Continuing Education
 
-In Fall 2026, I am beginning studies in **Enterprise Web Development**.
+In Fall 2026, I am beginning studies in **Enterprise Web Development** through Distributed Learning at the College of the North Atlantic based out of Clarenville, NL.
 
 That decision continues the same intersection that has existed throughout my education and working life:
 
@@ -643,7 +643,7 @@ Understanding more of that process allows me to examine those relationships more
 
 ## Continuing Project Work
 
-I also remain actively involved in cryptocurrency projects while Northframe develops.
+I also remain actively involved in cryptocurrency projects while Northframe develops alongside my studies.
 
 This gives me continuing exposure to real business decisions, marketing problems, user behaviour, development constraints, project structures, and competitive environments.
 
