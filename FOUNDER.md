@@ -205,7 +205,7 @@ It also allowed me to see the difference between learning a process academically
 
 ### Pathfinders School
 
-In 2000, I completed further work experience with The Pathfinders School in Stephneville, NL.
+In 2000, I completed further work experience with The Pathfinders School in Stephenville, NL.
 
 Part of that work involved helping begin the process of moving course material from a paper-based format toward an online structure.
 
