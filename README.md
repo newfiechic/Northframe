@@ -190,10 +190,20 @@ Northframe does not currently provide:
 
 Northframe provides research, systems review, structured analysis, human-centred insight, and practical problem-solving.
 
-## Current Status
+## Company Status
 
-The corporate name **Northframe Systems Inc.** has been submitted for reservation with the Newfoundland and Labrador Registry of Companies, pending approval and incorporation.
-Northframe is currently in development.
+Northframe Systems Inc. has been approved and reserved as a corporate name with the Newfoundland and Labrador Registry of Companies.
+
+- **Name Reservation:** Approved
+- **Jurisdiction:** Newfoundland and Labrador, Canada
+- **Reservation Date:** August 10, 2026
+- **Current Stage:** Incorporation pending
+
+Northframe is currently being developed alongside my Enterprise Web Development studies at the College of the North Atlantic, with the technical, business, and systems knowledge gained through the program feeding into its continued development.
+
+Corporate name reservation does not represent completed incorporation. This section will be updated following incorporation.
+
+## Repository Purpose
 
 This repository will be used to explore and document:
 
@@ -219,6 +229,7 @@ Her background includes business and office administration, organizational opera
 Northframe formalizes an approach she has used informally for years: looking beyond the visible problem, mapping the relationships around it, and tracing downstream issues back to the upstream decisions that created them.
 
 [Read the full founder background](FOUNDER.md)
+
 ---
 
 <div align="center">
